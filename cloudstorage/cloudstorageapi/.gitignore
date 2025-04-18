@@ -1,0 +1,12 @@
+# Compiled class files
+*.class
+
+# Sensitive configuration files
+application-secrets.properties
+*.p12
+*.jks
+*.keystore
+.env
+*.jar
+/target/
+node_modules/
